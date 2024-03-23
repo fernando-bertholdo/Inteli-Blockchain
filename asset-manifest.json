@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Inteli-Blockchain/static/css/main.f45c6e9c.css",
+    "main.js": "/Inteli-Blockchain/static/js/main.46abc2bb.js",
+    "static/media/background-ib.svg": "/Inteli-Blockchain/static/media/background-ib.be11122288e47b108b7e13bd9de1a1dd.svg",
+    "static/media/logo.svg": "/Inteli-Blockchain/static/media/logo.58965ca8ba472e17524a4ed7ecd21eaf.svg",
+    "index.html": "/Inteli-Blockchain/index.html",
+    "main.f45c6e9c.css.map": "/Inteli-Blockchain/static/css/main.f45c6e9c.css.map",
+    "main.46abc2bb.js.map": "/Inteli-Blockchain/static/js/main.46abc2bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f45c6e9c.css",
+    "static/js/main.46abc2bb.js"
+  ]
+}
